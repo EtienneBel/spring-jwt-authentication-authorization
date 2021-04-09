@@ -8,6 +8,8 @@ This is our Spring Boot application demo running with MySQL database and test Re
 
 Tutorial link : [Spring Security & JWT](https://bezkoder.com/spring-boot-jwt-authentication/)
 
+https://zb2oby.fr/permissions-spring-boot-acl
+
 ![Capture](https://user-images.githubusercontent.com/49534121/112665208-b8927300-8e52-11eb-9460-a4a51d3f13e6.PNG)
 
 create role = http://localhost:8080/api/v1/roles
